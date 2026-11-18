@@ -1,9 +1,8 @@
-# Portfolio
 # Responsive Personal Portfolio Website
 
 A mobile-friendly personal portfolio that showcases my skills, projects, education and contact details.
 
-**Live Demo:** https://purvathakur04.github.io/portfolio/
+**Live Demo:** https://purvathakur04.github.io/Portfolio/
 
 ## Features
 - Mobile-first responsive layout built with CSS Grid, Flexbox and media queries
@@ -18,17 +17,17 @@ A mobile-friendly personal portfolio that showcases my skills, projects, educati
 HTML5 · CSS3 · JavaScript (vanilla)
 
 ## Run Locally
-1. Clone the repo: `git clone https://github.com/purvathakur04/portfolio.git`
+1. Clone the repo: `git clone https://github.com/purvathakur04/Portfolio.git`
 2. Open the folder in VS Code
 3. Open `index.html` with the Live Server extension (or just double-click it)
 
 ## Project Structure
 ```
-portfolio/
+Portfolio/
 ├── index.html
 ├── style.css
 ├── script.js
-├── resume.pdf
+├── Purva Thakur_resume.pdf
 └── README.md
 ```
 
